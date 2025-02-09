@@ -69,5 +69,5 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 
 ## License
 
-Feel free to use this project as you wish.
-```
+This project is under MIT license.
+
